@@ -27,13 +27,7 @@ A total conversion mod for Hitman Codename 47 that rebuilds the story of Mission
 
 
 
-<div align="center">
-	<img src="https://github.com/user-attachments/assets/6caa9e4a-cc1c-4eb9-880c-17c982627205" alt="Re47 Logo">
-</div>
-
-<div align="center">
-  <h1>Re47</h1>
-</div>
+![](https://github.com/user-attachments/assets/6caa9e4a-cc1c-4eb9-880c-17c982627205)
 
 [Discord Server](https://discord.gg/bcaWWF9Tb5)
 
