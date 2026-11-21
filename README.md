@@ -11,7 +11,7 @@ A total conversion mod for Hitman Codename 47 that rebuilds the story of Mission
 ## Base gameplay
 [![Mission: Impossible PSX](https://i.ytimg.com/vi/OAraKNfrcWc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?TFVQcl9xQVJ6THc)
 
-[![Ethan Hunt](https://raw.githubusercontent.com/igiteam/hitman-codename-47-mission-impossible-psx/refs/heads/main/Tom-Cruise-as-Ethan-Hunt-in-Mission-Impossible.png)[https://raw.githubusercontent.com/igiteam/hitman-codename-47-mission-impossible-psx/refs/heads/main/Tom-Cruise-as-Ethan-Hunt-in-Mission-Impossible.png]
+[![Ethan Hunt](https://raw.githubusercontent.com/igiteam/hitman-codename-47-mission-impossible-psx/refs/heads/main/Tom-Cruise-as-Ethan-Hunt-in-Mission-Impossible.png)](https://raw.githubusercontent.com/igiteam/hitman-codename-47-mission-impossible-psx/refs/heads/main/Tom-Cruise-as-Ethan-Hunt-in-Mission-Impossible.png)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
