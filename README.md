@@ -26,12 +26,12 @@ A total conversion mod for Hitman Codename 47 that rebuilds the story of Mission
 [![Hitman Codename 47](https://raw.githubusercontent.com/igiteam/hitman-codename-47-mission-impossible-psx/refs/heads/main/hitman-codename-47.png)](https://archive.org/details/HitmanCodename47USAEnFrDeEsIt)
 
 
+---
 
+### Hitman Codename 47 (2000) - Decompilation
 ![](https://github.com/user-attachments/assets/6caa9e4a-cc1c-4eb9-880c-17c982627205)
 
 [Discord Server](https://discord.gg/bcaWWF9Tb5)
-
-### Hitman Codename 47 (2000) - Decompilation
 
 ### ! THS PROJECT IS NO LONGER BEING WORKED ON !
 
